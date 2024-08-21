@@ -1,2 +1,3 @@
-# portfolio_python_data_analysis
-Проекты по анализу данных
+ № | Ссылка на проект | Отрасль бизнеса | Описание | Используемые библиотеки | Презентация проекта 
+—|—|—|—|—|—
+ 1 | [Анализ клиентов Netflix](https://github.com/eugenpt/portfolio_python_data_analysis/blob/main/netflix_users_analysis/netflix_users_analysis.ipynb) | Подписные онлайн-сервисы | Исследование частичной выборки пользователей Netflix, когортный анализ, изучение динамики прибыли.  | pandas, numpy, plotly | Презентация ["Исследование поведения и доходности частичной выборки пользователей"](https://github.com/eugenpt/portfolio_python_data_analysis/blob/main/netflix_users_analysis/netflix_users_analysis.pdf)
